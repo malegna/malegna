@@ -4,10 +4,10 @@
 
 Full Stack Developer 👩‍💻 
 
-Amante de aprender constantemente 📚. Redescubri mi pasion por la tecnologia y me enfoque en el desarrollo como Full Stack Developer, con la intension de aportar desde mi experiencia a este maravilloso mundo It. Amo crear cosas nuevas y por eso amo programar ❤️.
+Amante de aprender constantemente 📚. Redescubrí mi pasión por la tecnología y me enfoqué en el desarrollo como Full Stack Developer, con la intención de aportar desde mi experiencia a este maravilloso mundo It. Amo crear cosas nuevas y por eso amo programar ❤️.Amante de aprender constantemente 📚. Redescubri mi pasion por la tecnologia y me enfoque en el desarrollo como Full Stack Developer, con la intension de aportar desde mi experiencia a este maravilloso mundo It. Amo crear cosas nuevas y por eso amo programar ❤️.
 
-## ⚡ Tecnologias y herramientas:
-Preguntame sobre:
+## ⚡ Tecnologías y herramientas:
+Pregúntame sobre:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -22,7 +22,7 @@ Preguntame sobre:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 
-## 📫 Contact Me
+## 📫 Contáctame:
 - Correo - malegna14@gmail.com
 - LinkedIn - [Angela Santana](https://www.linkedin.com/in/angela-michele-santana-bele%C3%B1o-7224a6153/)
 
