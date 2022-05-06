@@ -17,6 +17,7 @@ Pregúntame sobre:
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat-square&logo=postgresql)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
