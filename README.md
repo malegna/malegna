@@ -1,31 +1,28 @@
 
 
-# Hola 👋, yo soy Angela Santana 😃
+# Hola 👋, soy Angela Santana 😃
 
 Full Stack Developer 👩‍💻 
 
-## 🧐 About
-Amante de aprender constantemente, redescubri mi pasion por la tecnologia y me enfoque en el desarrollo como Full Stack Developer, con la intension de aportar desde mi experiencia a este maravilloso mundo It. Amo crear cosas nuevas y por eso amo programar ❤️.
+Amante de aprender constantemente 📚. Redescubri mi pasion por la tecnologia y me enfoque en el desarrollo como Full Stack Developer, con la intension de aportar desde mi experiencia a este maravilloso mundo It. Amo crear cosas nuevas y por eso amo programar ❤️.
 
-## 👯 Communities
-- Empowering students with both small and long term initiatives under @ [TheYouthProject](https://theyouthproject.in)
-- Co-organizer at [AllAboutWeb](https://twitter.com/allaboutweb) (A web technology centric meetup group)
-- Co-organizer at [Indore Technical Community](https://twitter.com/indoretechcom) (A local meetup group talking coding and technologies in trend)
-- Co-organizer of Hour of Code, Indore - One of the largest Hour of Code execution in India
+## ⚡ Tecnologias y herramientas:
+Preguntame sobre:
 
-## ⚡ Technologies
-Talk to me about
-- Front-end development using **Angular, React, VanillaJS**
-- Backend development using **ASP.NET Core, Node, Express**
-- Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **Cassandra / DataStax**
-- Robust full-stack system design implementation
-- Desktop application development using **UWP, WPF or WinForms**
-- Mobile application development using **Android (Java or Kotlin), Xamarin Android / Xamarin iOS, Ionic**
-- Creating scalable cloud architecture using **Microsoft Azure**
-- Project Management and CD/CI using **Azure DevOps**
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
 
 ## 📫 Contact Me
-- Twitter - [@gauravc12](https://twitter.com/gauravc12)
-- LinkedIn - [Gaurav Chouhan](https://in.linkedin.com/in/gauravc12)
-- Blog - [GC Codes](https://gc-codes.com)
--->
+- Correo - malegna14@gmail.com
+- LinkedIn - [Angela Santana](https://www.linkedin.com/in/angela-michele-santana-bele%C3%B1o-7224a6153/)
+
