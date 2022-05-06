@@ -1,10 +1,11 @@
-### Hi there 👋
 
-# Angela Santana 😃
-Independent Sr. Software Consultant | Community Speaker | Co-Founder @ [TheYouthProject](https://github.com/TheYouthProject) | Embracing Technology | Creating Experiences
+
+# Hola 👋, yo soy Angela Santana 😃
+
+Full Stack Developer 👩‍💻 
 
 ## 🧐 About
-Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, I am working on democratizing technical education and shape the next generation of engineers and developers.
+Amante de aprender constantemente, redescubri mi pasion por la tecnologia y me enfoque en el desarrollo como Full Stack Developer, con la intension de aportar desde mi experiencia a este maravilloso mundo It. Amo crear cosas nuevas y por eso amo programar ❤️.
 
 ## 👯 Communities
 - Empowering students with both small and long term initiatives under @ [TheYouthProject](https://theyouthproject.in)
