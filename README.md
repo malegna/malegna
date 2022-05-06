@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 # Angela Santana 😃
 Independent Sr. Software Consultant | Community Speaker | Co-Founder @ [TheYouthProject](https://github.com/TheYouthProject) | Embracing Technology | Creating Experiences
 
@@ -28,6 +27,4 @@ Talk to me about
 - Twitter - [@gauravc12](https://twitter.com/gauravc12)
 - LinkedIn - [Gaurav Chouhan](https://in.linkedin.com/in/gauravc12)
 - Blog - [GC Codes](https://gc-codes.com)
-
----
 -->
