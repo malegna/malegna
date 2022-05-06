@@ -4,7 +4,7 @@
 
 Full Stack Developer 👩‍💻 
 
-Amante de aprender constantemente 📚. Redescubrí mi pasión por la tecnología y me enfoqué en el desarrollo como Full Stack Developer, con la intención de aportar desde mi experiencia a este maravilloso mundo It. Amo crear cosas nuevas y por eso amo programar ❤️.Amante de aprender constantemente 📚. Redescubri mi pasion por la tecnologia y me enfoque en el desarrollo como Full Stack Developer, con la intension de aportar desde mi experiencia a este maravilloso mundo It. Amo crear cosas nuevas y por eso amo programar ❤️.
+Amante de aprender constantemente 📚. Redescubrí mi pasión por la tecnología y me enfoqué en el desarrollo como Full Stack Developer, con la intención de aportar desde mi experiencia a este maravilloso mundo It. Amo crear cosas nuevas y por eso amo programar ❤️.
 
 ## ⚡ Tecnologías y herramientas:
 Pregúntame sobre:
