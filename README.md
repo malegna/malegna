@@ -24,6 +24,10 @@ Pregúntame sobre:
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 
 
+⚡ Aprendiendo:
+- React Native
+- Figma
+
 ## 📫 Contáctame:
 - Correo - malegna14@gmail.com
 - LinkedIn - [Angela Santana](https://www.linkedin.com/in/angela-michele-santana-bele%C3%B1o-7224a6153/)
